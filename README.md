@@ -34,42 +34,46 @@ This project delivers data-driven insights to support market entry and expansion
 
 ### 2. Overview:
 <img src="https://drive.google.com/uc?export=view&id=1RGSLBsl9tQYelQkzh0qYp9rI0oVwtQKo" width="900">
-* Total EV units sold (2022–2024)
-* EV penetration rate
-* 2W vs 4W market share
-* Monthly seasonality pattern
-* Year-wise growth trend
-* State contribution analysis
+
+- Total EV units sold (2022–2024)
+- EV penetration rate
+- 2W vs 4W market share
+- Monthly seasonality pattern
+- Year-wise growth trend
+- State contribution analysis
 
 ### 3. State Analysis:
 <img src="https://drive.google.com/uc?export=view&id=13SKC3eH5oNGyxwrfnPaLmIjyHobysIhT" width="900">
-* Top states by EV sales
-* State-wise EV penetration
-* EV penetration trend (2022–2024)
-* Sales vs total vehicle comparison
-* Identification of high and low adoption states
+
+- Top states by EV sales
+- State-wise EV penetration
+- EV penetration trend (2022–2024)
+- Sales vs total vehicle comparison
+- Identification of high and low adoption states
 
 ### 4. Maker Analysis:
 <img src="https://drive.google.com/uc?export=view&id=1T7u3_tKCMJbp54OT-dJeXVk8x6y180XI" width="900">
-* Total EV sales by manufacturers (FY 2024)
-* Active manufacturer count
-* Market concentration (Top 5 share)
-* Manufacturer growth vs scale analysis
-* 2W vs 4W segment focus
-* Market share distribution
-* Sales trend of leading manufacturers
+
+- Total EV sales by manufacturers (FY 2024)
+- Active manufacturer count
+- Market concentration (Top 5 share)
+- Manufacturer growth vs scale analysis
+- 2W vs 4W segment focus
+- Market share distribution
+- Sales trend of leading manufacturers
 
 ### 5. Growth & Forecast:
 <img src="https://drive.google.com/uc?export=view&id=1v0MOTSJK47ddhU5OXe65akFZ7M_ipYvr" width="900">
-* Total projected EV market size by 2030 (~50M units)
-* Average annual growth rate (~12–13%)
-* State with highest projected demand
-* Top states by projected EV sales
-* Growth rate comparison across states
-* Absolute demand increase (2024–2030)
-* Monthly demand seasonality
-* State-wise projection table
 
+- Total projected EV market size by 2030 (~50M units)
+- Average annual growth rate (~12–13%)
+- State with highest projected demand
+- Top states by projected EV sales
+- Growth rate comparison across states
+- Absolute demand increase (2024–2030)
+- Monthly demand seasonality
+- State-wise projection table
+  
 ## Key Insights:
 - EV sales exceeded **2 million units** between 2022–2024.
 - National EV penetration is still low (~3–4%), indicating strong growth potential.
